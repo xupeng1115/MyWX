@@ -10,9 +10,9 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"compileType": "miniprogram",
+	"compileType": "plugin",
 	"libVersion": "2.2.4",
-	"appid": "wx69f5bcd5b23cb529",
+	"appid": "wx18beb5107b404f96",
 	"projectname": "demo",
 	"debugOptions": {
 		"hidedInDevtools": []
